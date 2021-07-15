@@ -1,0 +1,6 @@
+gavo,http://dc.g-vo.org/tap
+gaia,https://gea.esac.esa.int/tap-server/tap
+ari-gaia,https://gaia.ari.uni-heidelberg.de/tap
+esasky,http://sky.esa.int/esasky-tap/tap
+youcat,https://ws-cadc.canfar.net/youcat
+jplus,https://archive.cefca.es/catalogues/vo/tap/jplus-dr2
